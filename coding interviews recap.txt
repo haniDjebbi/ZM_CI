@@ -1,0 +1,12 @@
+day1: 31-01-2023
+Resume:
+	single page
+	skills relevant to the job description
+	online links(github,website)
+	what you did why and what was the results
+	dont use I(use action verbs)
+	if i dont have experience:
+		work on 1 or 2 big projects
+		build a portfolio
+		contribute to open source projects
+		
